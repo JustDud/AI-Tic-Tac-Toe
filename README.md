@@ -25,7 +25,13 @@ I chose this project to dive into a new, fascinating field—AI—which is becom
 	•	Moves made by both the human and AI players.
 	•	Performance Metrics
 
-<h3>Testing Videos</h3>
-https://github.com/user-attachments/assets/755b4e42-157f-47b5-bc2a-450f40f3a874
-
+<h3>Contacts</h3>
+<b>Feel free to reach out!</b>
+<br>
+If you have any questions about my Tic Tac Toe AI project, Q-learning, or anything related to AI development, I’d be happy to connect. Whether you’re curious about the technical details, want to discuss collaboration, or need advice on similar projects, don’t hesitate to message me!
+<br>
+<br>
+<a href="https://www.linkedin.com/in/dmytro-dudarenko/" rel="nofollow">
+<img width="120" alt="Screenshot 2024-10-14 at 22 49 25" src="https://github.com/user-attachments/assets/45b20b2e-d8f3-4afc-8934-00083afca712">
+</a>
 
